@@ -1,4 +1,4 @@
-#' A simple wrapper for strsplit that extracts the first element of the result.
+#' A function that retrieves the entire split result
 #'
 #' @param x A character string to be split.
 #' @param split A character string used as the delimiter.
